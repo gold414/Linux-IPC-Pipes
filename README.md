@@ -114,7 +114,7 @@ void client(int wfd, int rfd)
 
 ## OUTPUT
 
-<img width="1600" height="465" alt="image" src="https://github.com/user-attachments/assets/2099e1a4-0769-4469-9a2b-e083a5a75392" />
+![alt text](img/1.png)
 
 # PROGRAM:
 
@@ -218,7 +218,7 @@ void client()
 
 ## OUTPUT
 
-<img width="1600" height="499" alt="image" src="https://github.com/user-attachments/assets/35cdb3e5-6e14-44fc-8a09-9ace1f3ecb99" />
+![alt text](img/2.png)
 
 # RESULT:
 The program is executed successfully.
